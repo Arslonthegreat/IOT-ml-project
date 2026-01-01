@@ -1,0 +1,4 @@
+tensorflow-lite
+numpy
+pandas
+pyserial
